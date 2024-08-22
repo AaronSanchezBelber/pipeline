@@ -1,6 +1,10 @@
 pandas
 numpy
 
+matplotlib
 seaborn
 scikit-learn
--e .  # Instala el paquete actual en modo editable, reflejando cambios en el código sin reinstalación.
+
+catboost
+xgboost
+# -e .  # Instala el paquete actual en modo editable, reflejando cambios en el código sin reinstalación.
