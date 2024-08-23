@@ -1,0 +1,9 @@
+[2024-08-23 09:53:47,866] INFO data_ingestion.py:22 - Ha entrado el data ingestion componente
+[2024-08-23 09:53:47,872] INFO data_ingestion.py:25 - Dataset leido como un dataframe
+[2024-08-23 09:53:47,878] INFO data_ingestion.py:30 - Train test iniciado
+[2024-08-23 09:53:47,886] INFO data_ingestion.py:35 - Ingestion completada
+[2024-08-23 09:53:47,908] INFO data_transformation.py:61 - Leer train y test data completado
+[2024-08-23 09:53:47,908] INFO data_transformation.py:62 - El objeto ha sido preprocesado
+[2024-08-23 09:53:47,908] INFO data_transformation.py:41 - Columnas numéricas encodeadas completadas:['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2024-08-23 09:53:47,909] INFO data_transformation.py:42 - Columnas categoricas encodeadas completadas:['writting_score', 'reading_score']
+[2024-08-23 09:53:47,910] INFO data_transformation.py:74 - Aplicando el objeto preprocesador en el train y test data
