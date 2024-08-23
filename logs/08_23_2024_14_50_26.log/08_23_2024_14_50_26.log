@@ -1,0 +1,9 @@
+[2024-08-23 14:50:26,886] WARNING _internal.py:97 -  * Debugger is active!
+[2024-08-23 14:50:26,899] INFO _internal.py:97 -  * Debugger PIN: 153-804-039
+[2024-08-23 14:50:31,871] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:50:31] "GET /predictdata HTTP/1.1" 200 -
+[2024-08-23 14:50:47,340] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:50:47] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2024-08-23 14:50:47,362] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:50:47] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-08-23 14:50:47,396] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:50:47] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-08-23 14:50:47,725] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:50:47] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=IXcqfqWJzG4D9Y36UDmY HTTP/1.1" 200 -
+[2024-08-23 14:50:47,981] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:50:47] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-08-23 14:51:44,182] INFO _internal.py:97 -  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\krish-udemy\\pipeline\\source\\pipeline\\predict_pipeline.py', reloading

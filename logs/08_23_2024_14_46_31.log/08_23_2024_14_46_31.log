@@ -1,0 +1,8 @@
+[2024-08-23 14:46:31,693] WARNING _internal.py:97 -  * Debugger is active!
+[2024-08-23 14:46:31,706] INFO _internal.py:97 -  * Debugger PIN: 153-804-039
+[2024-08-23 14:46:42,539] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:46:42] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2024-08-23 14:46:42,557] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:46:42] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-08-23 14:46:42,762] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:46:42] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-08-23 14:46:43,108] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:46:43] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=FvG03uNlTvCck3isbbAU HTTP/1.1" 200 -
+[2024-08-23 14:46:43,374] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:46:43] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-08-23 14:48:18,214] INFO _internal.py:97 -  * Detected change in 'c:\\users\\lenovo\\desktop\\krish-udemy\\pipeline\\source\\pipeline\\predict_pipeline.py', reloading

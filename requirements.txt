@@ -9,4 +9,5 @@ catboost
 xgboost
 
 dill
+flask
 # -e .  # Instala el paquete actual en modo editable, reflejando cambios en el código sin reinstalación.

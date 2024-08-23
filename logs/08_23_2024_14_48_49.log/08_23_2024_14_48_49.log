@@ -1,0 +1,5 @@
+[2024-08-23 14:48:49,347] WARNING _internal.py:97 -  * Debugger is active!
+[2024-08-23 14:48:49,360] INFO _internal.py:97 -  * Debugger PIN: 153-804-039
+[2024-08-23 14:48:54,913] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:48:54] "GET /predictdata HTTP/1.1" 200 -
+[2024-08-23 14:48:54,919] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 14:48:54] "GET /predictdata HTTP/1.1" 200 -
+[2024-08-23 14:48:58,212] INFO _internal.py:97 -  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\krish-udemy\\pipeline\\source\\pipeline\\predict_pipeline.py', reloading

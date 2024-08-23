@@ -1,0 +1,5 @@
+[2024-08-23 15:20:34,770] WARNING _internal.py:97 -  * Debugger is active!
+[2024-08-23 15:20:34,782] INFO _internal.py:97 -  * Debugger PIN: 153-804-039
+[2024-08-23 15:20:40,935] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 15:20:40] "GET /predictdata HTTP/1.1" 200 -
+[2024-08-23 15:20:56,603] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 15:20:56] "POST /predictdata HTTP/1.1" 200 -
+[2024-08-23 15:23:17,051] INFO _internal.py:97 - 127.0.0.1 - - [23/Aug/2024 15:23:17] "POST /predictdata HTTP/1.1" 200 -
