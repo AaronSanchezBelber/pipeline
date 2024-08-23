@@ -1,0 +1,4 @@
+[2024-08-23 08:53:54,934] INFO data_ingestion.py:20 - Ha entrado el data ingestion componente
+[2024-08-23 08:53:54,938] INFO data_ingestion.py:23 - Dataset leido como un dataframe
+[2024-08-23 08:53:54,944] INFO data_ingestion.py:28 - Train test iniciado
+[2024-08-23 08:53:54,957] INFO data_ingestion.py:33 - Ingestion completada
