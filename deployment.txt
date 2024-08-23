@@ -1,0 +1,13 @@
+elastic beanstalk. aws
+code pipeline. aws
+
+1- Crear el dir .ebextensions con su archivo: python.config:
+
+option_settings:
+    "aws:elasticbeanstalk:container:python":
+    WSGIPath: application:application
+
+2- Crear el application.py sin el debug=True
+
+3- Crear una application en beanstalk con un entorno
+4- hacer un code pipeline y enlazar tu repo actualizado
